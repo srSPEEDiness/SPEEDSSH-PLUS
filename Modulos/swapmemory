@@ -1,5 +1,5 @@
 #!/bin/bash
-#-----kiritosshxd------
+#-----@srSPEEDiness------
 fun_swap() {
     clear
 		echo -e "\E[44;1;37m            GERENCIAR MEMORIA VIRTUAL             \E[0m"
