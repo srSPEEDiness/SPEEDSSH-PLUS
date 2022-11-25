@@ -8,14 +8,14 @@ LoginGraceTime 120
 PermitRootLogin yes
 StrictModes yes
 RSAAuthentication yes
-PubkeyAuthentication yes
+PubkeyAuthentication no
 IgnoreRhosts yes
 RhostsRSAAuthentication no
 HostbasedAuthentication no
 PermitEmptyPasswords no
 PermitTunnel yes
 ChallengeResponseAuthentication no
-PasswordAuthentication yes
+PasswordAuthentication no
 X11Forwarding yes
 X11DisplayOffset 10
 PrintMotd no
