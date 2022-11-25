@@ -7,7 +7,7 @@
 #   CONTATO TELEGRAM: http://t.me/srSPEEDiness
 #===================================================
 clear
-[[ $(awk -F" " '{print $2}' /usr/lib/licence) != "@srSPEEDiness" ]] && exit 0
+[[ $(awk -F" " '{print $2}' /usr/lib/licence) != "@KIRITO_SSH" ]] && exit 0
 fun_bar() {
     comando[0]="$1"
     comando[1]="$2"

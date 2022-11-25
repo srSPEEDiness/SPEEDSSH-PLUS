@@ -24,7 +24,7 @@ msg14='\033[1;37m\033[1;33mUsuario já Existe\033[1;31m'
 msg15='\033[1;37m\033[1;33m(Apenas números) GB = Min: 1gb Max: 1000gb\033[1;31m'
 msg16='\033[1;37m\033[1;33m(Apenas números)\033[1;31m'
 msg17='\033[1;37m\033[1;33m(Sem imformação - Para Cancelar Digite CRTL + C)\033[1;31m'
-[[ $(awk -F" " '{print $2}' /usr/lib/licence) == "@seSPEEDiness" ]] && {
+[[ $(awk -F" " '{print $2}' /usr/lib/licence) == "@KIRITO_SSH" ]] && {
     err_fun () {
         case $1 in
         1)msg -verm "$(fun_trans "Usuário Nulo")"; sleep 2s; tput cuu1; tput dl1; tput cuu1; tput dl1;;
