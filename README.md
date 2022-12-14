@@ -5,9 +5,20 @@
 # —(••÷[ 𝐈𝐌𝐀𝐆𝐄𝐌 ]÷••)—
 ![Screenshot_01](https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/main/Install/banner.jpg)
 
+# Modo de instalação
+Só joga na máquina e deixar instalar
 
+• atualiza sistema
 
-# SSHPLUS
+• desativa Ipv6
+
+• instala recursos e o script
+
+# SOLICITE KEY (TELEGRAM): 
+
+<a href="https://t.me/srSPEEDiness" style:fontsize="30px"> @srSPEEDiness </a>
+
+# SPEEDSSH PLUS
 
 ```
 apt-get update -y; apt-get upgrade -y; wget install.speedcell.ga/Plus-ssh; chmod 777 Plus-ssh; ./Plus-ssh
