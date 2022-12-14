@@ -16,7 +16,7 @@ Só joga na máquina e deixar instalar
 
 # SOLICITE KEY (TELEGRAM): 
 
-<a href="https://t.me/srSPEEDiness" style="font-size:30px"> @srSPEEDiness </a>
+<a href="https://t.me/srSPEEDiness" style="font-size:80dp"> @srSPEEDiness </a>
 
 # SPEEDSSH PLUS
 
