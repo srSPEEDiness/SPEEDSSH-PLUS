@@ -2,9 +2,10 @@
 #===================================================
 #   SCRIPT: BOT SSHPLUS MANAGER
 #   DATA ATT: 24 de Jan 2021
-#   DESENVOLVIDO POR: @srSPEEDiness
+#   DESENVOLVIDO POR: srSPEEDiness
 #   API SHELLBOT: SHAMAN
 #   CONTATO TELEGRAM: http://t.me/srSPEEDiness
+#   CANAL TELEGRAM: http://t.me/sshplus
 #===================================================
 [[ ! -d /etc/SSHPlus ]] && exit 0
 [[ ! -d /etc/bot ]] && exit 0
@@ -893,6 +894,7 @@ sobremim() {
     msg+="<b>🤖 BOT SSHPLUS MANAGER 🤖</b>\n"
     msg+="=×=×=×=×=×=×=×=×=×=×=×=×=×=\n\n"
     msg+="<b>Desenvolvido por:</b> @srSPEEDiness\n"
+    msg+="<b>Canal Oficial:</b> @SSHPLUS\n\n"
     msg+="Fui criado com o propósito de fornecer informações e ferramentas para gestão VPN em servidores 🐧 GNU/Linux 🐧.\n\n"
     msg+="<b>Menu:</b> /menu\n"
     ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \

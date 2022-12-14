@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-#--------@srSPEEDiness-----------#
+#--------@kiritosshxd-----------#
 source ShellBot2.sh
 ShellBot.init --token "5035924385:AAGTutTUP9lW_mfuz8hJmgvozmVeC1-7Zg4" --monitor --flush
 ShellBot.username
@@ -78,7 +78,7 @@ unset botao1
 botao1=''
 ShellBot.InlineKeyboardButton --button 'botao1' --line 1 --text '♻️GERA TESTE♻️' --callback_data 'gerarssh'
 ShellBot.InlineKeyboardButton --button 'botao1' --line 2 --text '🔰BAIXAR APLICATIVO🔰' --callback_data 'appenviar'
-ShellBot.InlineKeyboardButton --button 'botao1' --line 3 --text '💲COMPRAR ACESSO💲' --callback_data '3' --url 'https://t.me/srSPEEDiness'
+ShellBot.InlineKeyboardButton --button 'botao1' --line 3 --text '💲COMPRAR ACESSO💲' --callback_data '3' --url 'https://t.me/kiritosshxd'
 ShellBot.regHandleFunction --function criarteste --callback_data gerarssh
 ShellBot.regHandleFunction --function enviarapp --callback_data appenviar
 

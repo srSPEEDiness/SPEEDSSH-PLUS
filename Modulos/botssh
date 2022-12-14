@@ -1,11 +1,10 @@
 #!/bin/bash
-#===================================================
-#   SCRIPT: BOT SSHPLUS MANAGER
-#   DATA ATT: 24 de Jan 2021
-#   DESENVOLVIDO POR: @srSPEEDiness
-#   API SHELLBOT: SHAMAN
-#   CONTATO TELEGRAM: http://t.me/srSPEEDiness
-#===================================================
+#====================================================
+#	SCRIPT: BOTSSH SSHPLUS MANAGER
+#	DESENVOLVIDO POR:	srSPEEDiness
+#	CONTATO TELEGRAM:	http://t.me/srSPEEDiness
+#	CANAL TELEGRAM:	http://t.me/sshplus
+#====================================================
 clear
 [[ $(awk -F" " '{print $2}' /usr/lib/licence) != "@KIRITO_SSH" ]] && exit 0
 fun_bar() {
@@ -51,7 +50,7 @@ fun_botOnOff() {
         		wget -qO- sshplus.xyz/script/ShellBot.sh > /etc/SSHPlus/ShellBot.sh
         	}
             [[ ! -e "/etc/SSHPlus/ShellBot.sh" ]] && {
-				wget -qO- https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH/main/Install/ShellBot.sh >/etc/SSHPlus/ShellBot.sh
+				wget -qO- https://raw.githubusercontent.com/kiritosshxd/SSHPLUS/master/Install/ShellBot.sh >/etc/SSHPlus/ShellBot.sh
 			}
             cd /etc/SSHPlus
             screen -dmS bot_plus ./bot $tokenbot $iduser >/dev/null 2>&1

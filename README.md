@@ -1,10 +1,11 @@
-# SPEED-SSHPLUS
-
-SOLICITE KEY VIA TELEGRAM: @srSPEEDiness
+# SSHPLUS
 
 ```
-apt-get update -y; apt-get upgrade -y; wget keys.speedcellpremium.tk/Plus-ssh; chmod 777 Plus-ssh; ./Plus-ssh
+apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/master/Plus && chmod 777 Plus && ./Plus
 ```
 
+# Acessa Root
 
-PAINEL COMPATÍVEL COM BOTWHATSAPP
+```
+wget https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/master/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+```

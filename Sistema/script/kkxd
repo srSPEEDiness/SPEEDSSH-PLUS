@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-#--------@srSPEEDiness-----------#
+#--------@kiritosshxd-----------#
 source ShellBot2.sh
 ShellBot.init --token "1999518553:AAFUgZJUwrXYXBl2qlfztzhB5upEk19xNbk" --monitor --flush
 ShellBot.username

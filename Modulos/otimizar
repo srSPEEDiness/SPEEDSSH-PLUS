@@ -1,9 +1,9 @@
 #!/bin/bash
 #===================================================
-#   SCRIPT: BOT SSHPLUS MANAGER
-#   DESENVOLVIDO POR: @srSPEEDiness
-#   API SHELLBOT: SHAMAN
-#   CONTATO TELEGRAM: http://t.me/srSPEEDiness
+#	SCRIPT: LIMITER SSHPLUS SPEEDCELL
+#	DESENVOLVIDO POR:	SPEED
+#	CONTATO TELEGRAM:	http://t.me/srSPEEDiness
+#	CANAL TELEGRAM:	http://t.me/sshplus
 #===================================================
 fun_bar() {
 	comando[0]="$1"

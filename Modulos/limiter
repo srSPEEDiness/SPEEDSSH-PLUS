@@ -1,11 +1,10 @@
 #!/bin/bash
-#===================================================
-#   SCRIPT: BOT SSHPLUS MANAGER
-#   DATA ATT: 24 de Jan 2021
-#   DESENVOLVIDO POR: @srSPEEDiness
-#   API SHELLBOT: SHAMAN
-#   CONTATO TELEGRAM: http://t.me/srSPEEDiness
-#===================================================
+#====================================================
+#	SCRIPT: LIMITER SSHPLUS SPEEDCELL
+#	DESENVOLVIDO POR:	SPEED
+#	CONTATO TELEGRAM:	http://t.me/srSPEEDiness
+#	CANAL TELEGRAM:	http://t.me/sshplus
+#====================================================
 clear
 database="/root/usuarios.db"
 fun_multilogin() {
