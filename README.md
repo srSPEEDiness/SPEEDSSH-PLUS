@@ -5,7 +5,7 @@
 <br>
 <h1 align="center"> —(••÷[ 𝐈𝐌𝐀𝐆𝐄𝐌 ]÷••)— </h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/main/install/banner.jpg" height="600px"/>
+  <img src="https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/raw/main/install/banner.jpg" height="600px"/>
 </p>
 <p align="center"><b>⚠ SISTEMA SUPORTADO: (UBUNTU 18!).⚠</br>
 
