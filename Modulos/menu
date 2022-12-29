@@ -307,7 +307,7 @@ case "$x" in
    ;;
       32)
    clear
-   initcheck
+   checkers
    ;;
    33)
    menu
