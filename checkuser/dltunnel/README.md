@@ -22,7 +22,7 @@ checkuser --config-port 5000 --start --daemon
 
 ### Ou
 ```
-bash <(curl -sL https://raw.githubusercontent.com/DTunnel0/DTCheckUser/master/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/main/checkuser/dltunnel/install.sh)
 ```
  *Opcao 1*
 
@@ -33,7 +33,7 @@ python3 -m pip install --upgrade git+https://github.com/DTunnel0/DTCheckUser.git
 
 ### Ou
 ```
-bash <(curl -sL https://raw.githubusercontent.com/DTunnel0/DTCheckUser/master/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/main/checkuser/dltunnel/install.sh)
 ```
  *Opcao 2*
 

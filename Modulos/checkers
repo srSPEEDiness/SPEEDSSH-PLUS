@@ -19,10 +19,10 @@
 			initcheck
 			;;
 			2 | 02)
-            bash <(curl -sL https://raw.githubusercontent.com/DTunnel0/DTCheckUser/master/install.sh)
+            bash <(curl -sL https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/main/checkuser/dltunnel/install.sh)
             ;;
             3 | 03)
-            bash <(curl -sL https://raw.githubusercontent.com/ScottBrabo/CheckUser/master/install.sh)
+            bash <(curl -sL https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/main/checkuser/conecta4g/install.sh)
             ;;
 			0 | 00)
 			clear
